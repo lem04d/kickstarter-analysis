@@ -1,0 +1,34 @@
+# Kickstarting with Excel
+
+## Overview of Project
+-Client requested analysis of fundrasing results from all other plays to see if there is a connection between goals and or launch dates, and the success or failure of a campaign. I used the data provided from all play kickstarter campaigns and looked at the launch dates and fundraising goals, provided graphs that visually describe the outcomes of these two analyses  
+
+### Purpose
+- The purpose if the two analyises is to first see if the date of a campaign's launch as any impact on the success or failure of the campagin and also to look to see if the fundraising goals of these campagins has a correlation to their success or failure.
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+Based on the data, the largest number successful outcomes come with campagins that begin in the early summer (May/June timeframe). There is another smaller bump in the number of successful outcomes for campaigns launched in mid-autumn (October). This may suggest that perople are more receptive to funding the arts during the summer (perhaps because children are out of school and entertainment gives parents somethign to do with their kids) 
+
+### Analysis of Outcomes Based on Goals
+The highest percentage of successful campagins based on their goals come from campagins with goals less than $1000 and those with goals between $35,000 and $45,000 with the former showing the highest percentage.  This may be due to a lower goal being much more acheivable.  The higher goals may also have a bigger draw with high value donors and may come with higher production value.  
+
+### Challenges and Difficulties Encountered
+Rearranging the x axis to display correctly.
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+-  May is a good time to launch a campagin and December is not a desirable time to launch
+
+- What can you conclude about the Outcomes based on Goals?
+- Small goals are easily achievable and loftier goals are also achieveable so producers should now shy away from pricier productions
+
+- What are some limitations of this dataset?
+- We do not see how many campagins exceeded their goals or by how much nor do we see the contribution per person which would allow us to see how desirable a campgain is and whether the launch dates have an affect on how many donors a campgain recieves.  
+
+- What are some other possible tables and/or graphs that we could create?
+- A graph of Successful campagins and the number of induvidual donors they recieve
+- a graph of successful campagins and what their average contribution per person is
+- The average donation per person based on launch date 
